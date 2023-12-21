@@ -75,24 +75,24 @@ const Contact = () => {
         <p className={styles.sectionSubText}>Get in touch</p>
         <h3 className={styles.sectionHeadText}>Contact.</h3>
         <div className="contact-div pt-8 pb-8">
-        <h4 className={styles.sectionSubHeadText}>Phone No</h4>
-        <p className={styles.sectionSubText}>8076673468</p>
+          <h4 className={styles.sectionSubHeadText}>Phone No</h4>
+          <p className={styles.sectionSubText}>8076673468</p>
         </div>
         <div className="contact-div pt-8 pb-8">
-        <h4 className={styles.sectionSubHeadText}>Email</h4>
-        <div className="flex flex-row items-center gap-3 justify-between">
-        <p className={styles.sectionSubText}>devmadan30@gmail.com</p>
-        <a className="bg-transparent hover:bg-[#915EFF] text-[#915EFF] font-semibold hover:text-white py-2 px-4 border border-[#915EFF] hover:border-transparent rounded" tabIndex="0" aria-disabled="false" href="mailto:devmadan30@gmail.com"><span className="">Say Hello</span></a>
-        </div>
-        
-        </div>
-        <div className="contact-div pt-8 pb-8">
-        <h4 className={styles.sectionSubHeadText}>LinkedIn</h4>
-        <p className={styles.sectionSubText}>https://www.linkedin.com/in/dev-madaan-42520911a/</p>
+          <h4 className={styles.sectionSubHeadText}>Email</h4>
+          <div className="flex flex-row items-center gap-3 justify-between">
+            <p className={styles.sectionSubText}>devmadan30@gmail.com</p>
+            <a className="bg-transparent hover:bg-[#915EFF] text-[#915EFF] font-semibold hover:text-white py-2 px-4 border border-[#915EFF] hover:border-transparent rounded" tabIndex="0" aria-disabled="false" href="mailto:devmadan30@gmail.com"><span className="">Say Hello</span></a>
+          </div>
+
         </div>
         <div className="contact-div pt-8 pb-8">
-        <h4 className={styles.sectionSubHeadText}>Github</h4>
-        <p className={styles.sectionSubText}>https://github.com/devmadaan</p>
+          <h4 className={styles.sectionSubHeadText}>LinkedIn</h4>
+          <a href="https://www.linkedin.com/in/dev-madaan-42520911a/" target="_blank" className={styles.sectionSubText}>https://www.linkedin.com/in/dev-madaan-42520911a/</a>
+        </div>
+        <div className="contact-div pt-8 pb-8">
+          <h4 className={styles.sectionSubHeadText}>Github</h4>
+          <a href="https://www.linkedin.com/in/dev-madaan-42520911a/" target="_blank" className={styles.sectionSubText}>https://github.com/devmadaan</a>
         </div>
         {/* <form
           ref={formRef}
