@@ -92,7 +92,7 @@ const Contact = () => {
         </div>
         <div className="contact-div pt-8 pb-8">
           <h4 className={styles.sectionSubHeadText}>Github</h4>
-          <a href="https://www.linkedin.com/in/dev-madaan-42520911a/" target="_blank" className={styles.sectionSubText}>https://github.com/devmadaan</a>
+          <a href="https://github.com/devmadaan" target="_blank" className={styles.sectionSubText}>https://github.com/devmadaan</a>
         </div>
         {/* <form
           ref={formRef}
