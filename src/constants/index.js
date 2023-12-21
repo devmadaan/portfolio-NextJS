@@ -32,6 +32,8 @@ import {
   mymoneymantra,
   posable,
   prescinto,
+  sass,
+  mysql,
 } from "../assets";
 
 export const navLinks = [
@@ -98,6 +100,10 @@ const technologies = [
     icon: tailwind,
   },
   {
+    name: "Sass",
+    icon: sass,
+  },
+  {
     name: "Next JS",
     icon: nextjs,
   },
@@ -109,18 +115,22 @@ const technologies = [
     name: "Node JS",
     icon: nodejs,
   },
+  // {
+  //   name: "MongoDB",
+  //   icon: mongodb,
+  // },
   {
-    name: "MongoDB",
-    icon: mongodb,
+    name: "MySQL",
+    icon: mysql,
   },
   {
     name: "Three JS",
     icon: threejs,
   },
-  // {
-  //   name: "git",
-  //   icon: git,
-  // },
+  {
+    name: "git",
+    icon: git,
+  },
   {
     name: "figma",
     icon: figma,

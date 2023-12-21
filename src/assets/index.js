@@ -24,6 +24,8 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import nextjs from "./tech/Nextjs.png";
 import firebase from "./tech/firebase.png";
+import sass from "./tech/sass.png";
+import mysql from "./tech/mysql.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -71,6 +73,8 @@ export {
   threejs,
   nextjs,
   firebase,
+  sass,
+  mysql,
   meta,
   shopify,
   starbucks,
