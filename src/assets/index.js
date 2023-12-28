@@ -43,12 +43,20 @@ import indiaai from "./indiaAi.webp";
 import mymoneymantra from "./mymoneymantra.png";
 import posable from "./posable.png";
 import prescinto from "./prescinto.png";
+import nfticallyMarket from "./nftically.png";
+import comearth from "./comearth.png";
+import kamoto from "./kamoto.png";
+
 
 export {
   indiaai,
   mymoneymantra,
   posable,
   prescinto,
+  nftically,
+  nfticallyMarket,
+  comearth,
+  kamoto,
   logo,
   logo2,
   backend,
@@ -80,7 +88,6 @@ export {
   starbucks,
   tesla,
   onething,
-  nftically,
   encro,
   carrent,
   jobit,
